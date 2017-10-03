@@ -1,0 +1,54 @@
+{
+  "name": "ngzygote",
+  "version": "1.0.0",
+  "description": "ngZygote is an angular project written from scratch without using any automated tools with minimum files needed to bootstrap. Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabhio/ngZygote.git"
+  },
+  "keywords": [
+    "angular",
+    "angular",
+    "4",
+    "angular",
+    "app",
+    "from",
+    "scratch",
+    "webpack",
+    "angular",
+    "with",
+    "webpack"
+  ],
+  "author": "@rishabhio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rishabhio/ngZygote/issues"
+  },
+  "homepage": "https://github.com/rishabhio/ngZygote#readme",
+  "dependencies": {
+    "@angular/common": "^4.4.4",
+    "@angular/compiler": "^4.4.4",
+    "@angular/core": "^4.4.4",
+    "@angular/platform-browser": "^4.4.4",
+    "@angular/platform-browser-dynamic": "^4.4.4",
+    "angular2-template-loader": "^0.6.2",
+    "rxjs": "^5.4.3",
+    "zone.js": "^0.8.18",
+        "core-js": "^2.5.1"
+  },
+  "devDependencies": {
+    "@types/angular": "^1.6.32",
+    "@types/node": "^8.0.31",
+    "awesome-typescript-loader": "^3.2.3",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "html-loader": "^0.5.1",
+    "html-webpack-plugin": "^2.30.1",
+    "raw-loader": "^0.5.1",
+    "typescript": "^2.5.3",
+    "webpack": "^3.6.0"
+  }
+}

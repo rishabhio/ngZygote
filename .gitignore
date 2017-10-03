@@ -1,0 +1,13 @@
+dist/
+node_modules/
+npm-debug.log*
+
+# IDEs
+
+.vscode/
+
+# Typings file.
+typings/
+
+# Misc
+tmp/
